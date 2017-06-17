@@ -19,10 +19,10 @@
 
     
   roles:
-    - common-vms
-    - openssl
-    - nginx
-    - firewall
+    - patrick-hill.common
+    - patrick-hill.firewall
+    - patrick-hill.openssl
+    - patrick-hill.nginx
 
   post_tasks:
     # Setup Proxy Homepage

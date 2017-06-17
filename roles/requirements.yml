@@ -1,0 +1,14 @@
+---
+
+- name: patrick-hill.common
+  src:  https://github.com/patrick-hill/ansible-role-common
+
+- name: patrick-hill.firewall
+  src:  https://github.com/patrick-hill/ansible-role-firewall
+
+- name: patrick-hill.openssl
+  src:  https://github.com/patrick-hill/ansible-role-openssl
+  
+- name: patrick-hill.nginx
+  src:  https://github.com/patrick-hill/ansible-role-nginx
+  
